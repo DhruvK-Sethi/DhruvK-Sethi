@@ -23,7 +23,7 @@ I'm Dhruv, Welcome to my coding universe! 🚀
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvK-Sethi&theme=radical)
+[![Dhruv's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvK-Sethi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## Top Languages
 
