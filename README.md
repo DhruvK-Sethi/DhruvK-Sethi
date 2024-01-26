@@ -25,7 +25,7 @@ I'm Dhruv, Welcome to my coding universe! 🚀
 ## GitHub Stats
 
 [![Dhruv's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvK-Sethi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvK-Sethi&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvK-Sethi&hide_progress=true)
 
 
 ## Let's Connect
