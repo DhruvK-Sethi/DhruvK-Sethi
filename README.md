@@ -32,7 +32,7 @@ I'm Dhruv, Welcome to my coding universe! 🚀
 
 ## Let's Connect
 
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/dhruvksethi)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dhruvksethi)
 &nbsp;
 - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DhruvK-Sethi)
 
