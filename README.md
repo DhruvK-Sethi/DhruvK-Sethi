@@ -34,6 +34,7 @@ I'm Dhruv, Welcome to my coding universe! 🚀
 - ![Badge 1](https://img.shields.io/badge/-Badge1-ff69b4)
 - ![Badge 2](https://img.shields.io/badge/-Badge2-blue)
 - ![Badge 3](https://img.shields.io/badge/-Badge3-green)
+- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 ## Let's Connect
 
