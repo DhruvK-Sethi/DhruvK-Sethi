@@ -64,6 +64,10 @@ fields_of_interests:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvK-Sethi&hide_progress=true&theme=tokyonight" alt="Top Langs">
 </p>
 
+<p>
+  <img src="https://github.com/DhruvK-Sethi/DhruvK-Sethi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
