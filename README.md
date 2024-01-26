@@ -29,15 +29,11 @@ I'm Dhruv, Welcome to my coding universe! 🚀
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvK-Sethi&layout=compact&theme=radical)
 
-## Badges
-
-- ![Badge 1](https://img.shields.io/badge/-Badge1-ff69b4)
-- ![Badge 2](https://img.shields.io/badge/-Badge2-blue)
-- ![Badge 3](https://img.shields.io/badge/-Badge3-green)
-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/DhruvK-Sethi)
+&nbsp;
+- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DhruvK-Sethi)
 
 Feel free to explore my repositories and connect with me. Happy coding! 😊
