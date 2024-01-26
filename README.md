@@ -58,3 +58,15 @@ fields_of_interests:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+<h2>GitHub Stats</h2>
+
+<p>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvK-Sethi&theme=tokyonight" alt="Dhruv's github streak">
+  </a>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvK-Sethi&hide_progress=true&theme=tokyonight" alt="Top Langs">
+</p>
