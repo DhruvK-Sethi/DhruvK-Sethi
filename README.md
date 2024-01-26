@@ -53,6 +53,7 @@ fields_of_interests:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> 
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="git" width="45" height="45"/> 
 </p>
 
 
