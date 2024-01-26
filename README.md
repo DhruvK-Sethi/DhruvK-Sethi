@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**DhruvK-Sethi/DhruvK-Sethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dhruv, Welcome to my coding universe! 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 🔭 I’m currently working on []-->
+- 🌱 I’m constantly learning and exploring new technologies.
+- 💬 Ask me about [Your Expertise]
+
+## Tech Stack
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
+
+## GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## Badges
+
+- ![Badge 1](https://img.shields.io/badge/-Badge1-ff69b4)
+- ![Badge 2](https://img.shields.io/badge/-Badge2-blue)
+- ![Badge 3](https://img.shields.io/badge/-Badge3-green)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+
+Feel free to explore my repositories and connect with me. Happy coding! 😊
