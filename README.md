@@ -1,37 +1,60 @@
-# Hello, World! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
-I'm Dhruv, Welcome to my coding universe! 🚀
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
-## About Me
+<p align="center">
+<a href="https://www.linkedin.com/in/dhruvksethi/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://www.instagram.com/dhruvk_sethi/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
 
-<!-- 🔭 I’m currently working on []-->
-- 🌱 I’m constantly learning and exploring new technologies.
-- 💬 Ask me about [Your Expertise]
+---
 
-## Tech Stack
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+```yaml
+name: Dhruv Kumar
+located_in: Ludhiana, India
+education:
+  [
+    "Bachelor's in Computer Science and Engineering",
+  ]
 
+fields_of_interests:
+  [
+    "Machine Learning",
+    "C++",
+    "Data Science",
+    "Anything with Tech in it 😊"
+  ]
+```
+  
+---  
+  
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> 
+</p>
 
-<!--## GitHub Stats
-## Top Languages
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvK-Sethi&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)-->
-
-## GitHub Stats
-
-[![Dhruv's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvK-Sethi&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvK-Sethi&hide_progress=true&theme=tokyonight)
-
-
-## Let's Connect
-
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dhruvksethi)
-&nbsp;
-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DhruvK-Sethi)
-
-Feel free to explore my repositories and connect with me. Happy coding! 😊
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
