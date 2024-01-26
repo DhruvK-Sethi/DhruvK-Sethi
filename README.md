@@ -17,16 +17,14 @@ I'm Dhruv, Welcome to my coding universe! 🚀
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvK-Sethi&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
-
-## GitHub Streak
-
-[![Dhruv's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvK-Sethi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+<!--## GitHub Stats
 ## Top Languages
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvK-Sethi&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)-->
+
+## GitHub Stats
+
+[![Dhruv's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvK-Sethi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvK-Sethi&layout=compact&theme=radical)
 
 
