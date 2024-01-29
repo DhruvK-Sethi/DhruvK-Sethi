@@ -59,7 +59,6 @@ fields_of_interests:
 </p>
 
 
-
 <h2>GitHub Stats</h2>
 
 <p>
